@@ -1,0 +1,3 @@
+This project is analyzing startups and Venture Capital (VC) investments in the recent 5 years. I am currently conducting data analysis to find an interesting hypothesis or trend to further explore. 
+
+All data is publicly available at www.crunchbase.com. Data has been imported into R for data munging, analysis, and visualization. 
